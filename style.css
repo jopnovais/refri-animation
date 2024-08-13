@@ -94,3 +94,7 @@
 .item.active .title {
     animation: toActive 0.8s ease-in-out 1;
 }
+
+.item.active img.refri {
+    animation: toActive 0.8s ease-in-out 1;
+}
